@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Superbia91 👋
 
-<!--
-**Superbia91/Superbia91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Who am I?
+I am a Java student and aspiring software developer focused on improving my programming and software architecture skills.
 
-Here are some ideas to get you started:
+I am passionate about game development, backend systems, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 What am I currently working on?
+- Developing custom Minecraft mods using Java
+- Building a case opening system with architecture-focused design
+- Learning Java deeply through practical projects
+- Improving my understanding of clean code and system design
+- Working on: ()
+
+---
+
+## 🛠️ What tools do I use?
+**Languages:**
+- Java
+
+**Tools & Technologies:**
+- IntelliJ IDEA
+- Git & GitHub
+- Minecraft Forge / NeoForge ()
+- Blockbench
+- ()
+
+**Currently learning:**
+- Software architecture
+- Design patterns
+- ()
+
+---
+
+## 📫 How to reach me?
+- Telegram blog: ()
+- GitHub: https://github.com/Superbia91
+- Email: ()
+
+---
+
+## 🎯 Goals
+- Become a professional software developer
+- Master Java and software architecture
+- Build complex and high-quality projects
+- Release public Minecraft mods
+
+---
+
+⭐ Always learning. Always building.
